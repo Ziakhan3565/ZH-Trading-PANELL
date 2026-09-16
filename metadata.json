@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Microstructure & Quantitative Signal Engine",
+  "description": "Real-time crypto microstructure research pipeline computing multi-level OBI, OFI, taker flow, depth depletion, Big Move Score (BMS), machine learning confirmation, and 15-20 min persistent signals with anti-flip protection and risk targets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
